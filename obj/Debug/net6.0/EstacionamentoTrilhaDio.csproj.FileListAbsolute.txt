@@ -1,0 +1,15 @@
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\bin\Debug\net6.0\EstacionamentoTrilhaDio.exe
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\bin\Debug\net6.0\EstacionamentoTrilhaDio.deps.json
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\bin\Debug\net6.0\EstacionamentoTrilhaDio.runtimeconfig.json
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\bin\Debug\net6.0\EstacionamentoTrilhaDio.dll
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\bin\Debug\net6.0\EstacionamentoTrilhaDio.pdb
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\EstacionamentoTrilhaDio.csproj.AssemblyReference.cache
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\EstacionamentoTrilhaDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\EstacionamentoTrilhaDio.AssemblyInfoInputs.cache
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\EstacionamentoTrilhaDio.AssemblyInfo.cs
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\EstacionamentoTrilhaDio.csproj.CoreCompileInputs.cache
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\EstacionamentoTrilhaDio.dll
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\refint\EstacionamentoTrilhaDio.dll
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\EstacionamentoTrilhaDio.pdb
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\EstacionamentoTrilhaDio.genruntimeconfig.cache
+C:\Codes\C#\Console\EstacionamentoTrilhaDio\EstacionamentoTrilhaDio\obj\Debug\net6.0\ref\EstacionamentoTrilhaDio.dll
